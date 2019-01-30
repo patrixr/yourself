@@ -1,0 +1,9 @@
+{
+  "name": "yourself",
+  "version": "1.0.0",
+  "description": "npm install --save yourself",
+  "main": "index.js",
+  "repository": "git@github.com:patrixr/yourself.git",
+  "author": "Patrick",
+  "license": "MIT"
+}
