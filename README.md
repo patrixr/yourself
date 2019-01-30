@@ -1,1 +1,3 @@
-# yourself
+# Yourself
+
+npm install --**save yourself**
